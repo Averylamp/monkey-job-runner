@@ -1,4 +1,4 @@
-ansible==2.10.0
+ansible==4.2.0
 ansible-base==2.10.1
 ansible-runner==1.4.6
 appdirs==1.4.4
