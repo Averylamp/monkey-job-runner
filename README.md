@@ -2,6 +2,7 @@
 
 ### For controlling creation and deletion of cloud instances as a job runner service
 
+[Thesis](https://dspace.mit.edu/handle/1721.1/139258)
 #### Status
 Develop Branch:
 ![Provider Local](https://github.com/Improbable-AI/monkey-job-runner/workflows/Provider%20Local/badge.svg?branch=actions)
