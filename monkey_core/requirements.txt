@@ -94,7 +94,7 @@ texttable==1.6.2
 toml==0.10.1
 typed-ast==1.4.1
 typing-extensions==3.7.4.3
-ujson==3.2.0
+ujson==5.4.0
 uritemplate==3.0.1
 urllib3==1.25.9
 websocket-client==0.57.0
