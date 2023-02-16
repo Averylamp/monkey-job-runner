@@ -98,7 +98,7 @@ ujson==3.2.0
 uritemplate==3.0.1
 urllib3==1.25.9
 websocket-client==0.57.0
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 wrapt==1.12.1
 yapf==0.30.0
 zipp==3.1.0
